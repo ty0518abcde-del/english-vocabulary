@@ -413,3 +413,59 @@
   "example": "The driver pulled over.",
   "translation": "運転手は車を路肩に停めました。"
 },
+{
+  "word": "impairment",
+  "category": "会計・監査",
+  "meaning": "減損",
+  "example": "The company recognized an impairment loss.",
+  "translation": "会社は減損損失を認識しました。"
+},
+{
+  "word": "recoverable amount",
+  "category": "IFRS・会計",
+  "meaning": "回収可能価額",
+  "example": "The recoverable amount exceeded the carrying amount.",
+  "translation": "回収可能価額は帳簿価額を上回りました。"
+},
+{
+  "word": "carrying amount",
+  "category": "IFRS・会計",
+  "meaning": "帳簿価額",
+  "example": "The carrying amount was reviewed.",
+  "translation": "帳簿価額が見直されました。"
+},
+{
+  "word": "recognize",
+  "category": "会計英語",
+  "meaning": "認識する、計上する",
+  "example": "Revenue was recognized in the period.",
+  "translation": "収益はその期間に認識されました。"
+},
+{
+  "word": "allocate",
+  "category": "会計英語",
+  "meaning": "配分する",
+  "example": "Costs were allocated to each department.",
+  "translation": "コストは各部門に配分されました。"
+},
+{
+  "word": "disclose",
+  "category": "会計英語",
+  "meaning": "開示する",
+  "example": "The company disclosed significant risks.",
+  "translation": "会社は重要なリスクを開示しました。"
+},
+{
+  "word": "material",
+  "category": "監査英語",
+  "meaning": "重要な、重要性のある",
+  "example": "This is a material misstatement.",
+  "translation": "これは重要な虚偽表示です。"
+},
+{
+  "word": "misstatement",
+  "category": "監査英語",
+  "meaning": "虚偽表示",
+  "example
+
+},
