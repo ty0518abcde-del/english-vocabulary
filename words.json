@@ -1,1 +1,32 @@
-
+[
+  {
+    "word": "rip off",
+    "meaning": "ぼったくる、だます",
+    "example": "That shop tried to rip me off.",
+    "translation": "あの店は私をぼったくろうとした。"
+  },
+  {
+    "word": "bruise",
+    "meaning": "あざ、打撲傷",
+    "example": "I got a bruise on my arm.",
+    "translation": "腕にあざができた。"
+  },
+  {
+    "word": "out of order",
+    "meaning": "故障している",
+    "example": "The elevator is out of order.",
+    "translation": "エレベーターは故障しています。"
+  },
+  {
+    "word": "get away with",
+    "meaning": "〜をしても罰を受けずに済む",
+    "example": "He got away with cheating.",
+    "translation": "彼はカンニングをしても罰を受けずに済んだ。"
+  },
+  {
+    "word": "stick it out",
+    "meaning": "最後までやり抜く",
+    "example": "Let's stick it out together.",
+    "translation": "最後まで一緒に頑張ろう。"
+  }
+]
