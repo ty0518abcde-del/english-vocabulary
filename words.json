@@ -68,5 +68,105 @@
     "meaning": "忙しい仕事生活",
     "example": "Many people have hectic working lives.",
     "translation": "多くの人は忙しい仕事生活を送っています。"
+  },
+
+[
+  {
+    "word": "auto",
+    "category": "一般英語",
+    "meaning": "自動の、自動車",
+    "example": "The door has an auto closing system.",
+    "translation": "そのドアには自動閉鎖システムがあります。"
+  },
+  {
+    "word": "outdoor water",
+    "category": "一般英語",
+    "meaning": "屋外の水道、屋外用水",
+    "example": "Turn off the outdoor water before winter.",
+    "translation": "冬になる前に屋外の水道を止めてください。"
+  },
+  {
+    "word": "fillings",
+    "category": "医療英語",
+    "meaning": "歯の詰め物",
+    "example": "I need new fillings for my teeth.",
+    "translation": "歯の詰め物を新しくする必要があります。"
+  },
+  {
+    "word": "oral fillings",
+    "category": "医療英語",
+    "meaning": "口腔内の詰め物",
+    "example": "The dentist replaced my oral fillings.",
+    "translation": "歯科医は私の詰め物を交換しました。"
+  },
+  {
+    "word": "civilized existence",
+    "category": "一般英語",
+    "meaning": "文明的な生活",
+    "example": "Technology allows us to enjoy a civilized existence.",
+    "translation": "技術によって文明的な生活を享受できます。"
+  },
+  {
+    "word": "feeble",
+    "category": "一般英語",
+    "meaning": "弱々しい、力のない",
+    "example": "He gave a feeble excuse.",
+    "translation": "彼は弱々しい言い訳をした。"
+  },
+  {
+    "word": "hold up",
+    "category": "熟語",
+    "meaning": "持ちこたえる、遅らせる",
+    "example": "The project was held up by a delay.",
+    "translation": "プロジェクトは遅れによって遅延した。"
+  },
+  {
+    "word": "provision",
+    "category": "会計・監査",
+    "meaning": "引当金、準備、規定",
+    "example": "The company recognized a provision for losses.",
+    "translation": "会社は損失引当金を計上しました。"
+  },
+  {
+    "word": "retirement provision",
+    "category": "会計・監査",
+    "meaning": "退職給付引当金",
+    "example": "The company recorded a retirement provision.",
+    "translation": "会社は退職給付引当金を計上しました。"
+  },
+  {
+    "word": "allegation",
+    "category": "ビジネス英語",
+    "meaning": "申し立て、疑惑",
+    "example": "The allegation was investigated.",
+    "translation": "その疑惑は調査されました。"
+  },
+  {
+    "word": "embezzling",
+    "category": "ビジネス英語",
+    "meaning": "横領すること",
+    "example": "He was accused of embezzling company funds.",
+    "translation": "彼は会社資金を横領したとして告発された。"
+  },
+  {
+    "word": "red flag",
+    "category": "ビジネス英語",
+    "meaning": "危険信号、注意すべき兆候",
+    "example": "This issue is a red flag.",
+    "translation": "この問題は危険信号です。"
+  },
+  {
+    "word": "creep up",
+    "category": "熟語",
+    "meaning": "徐々に近づく、じわじわ増える",
+    "example": "Costs are creeping up.",
+    "translation": "コストが徐々に上昇しています。"
+  },
+  {
+    "word": "strive for",
+    "category": "熟語",
+    "meaning": "〜を目指して努力する",
+    "example": "We strive for excellence.",
+    "translation": "私たちは卓越性を目指して努力しています。"
   }
 ]
