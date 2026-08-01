@@ -69,8 +69,6 @@
     "example": "Many people have hectic working lives.",
     "translation": "多くの人は忙しい仕事生活を送っています。"
   },
-
-[
   {
     "word": "auto",
     "category": "一般英語",
@@ -81,7 +79,7 @@
   {
     "word": "outdoor water",
     "category": "一般英語",
-    "meaning": "屋外の水道、屋外用水",
+    "meaning": "屋外の水道",
     "example": "Turn off the outdoor water before winter.",
     "translation": "冬になる前に屋外の水道を止めてください。"
   },
@@ -97,7 +95,7 @@
     "category": "医療英語",
     "meaning": "口腔内の詰め物",
     "example": "The dentist replaced my oral fillings.",
-    "translation": "歯科医は私の詰め物を交換しました。"
+    "translation": "歯科医は詰め物を交換しました。"
   },
   {
     "word": "civilized existence",
@@ -105,209 +103,148 @@
     "meaning": "文明的な生活",
     "example": "Technology allows us to enjoy a civilized existence.",
     "translation": "技術によって文明的な生活を享受できます。"
-  },
-  {
-    "word": "feeble",
-    "category": "一般英語",
-    "meaning": "弱々しい、力のない",
-    "example": "He gave a feeble excuse.",
-    "translation": "彼は弱々しい言い訳をした。"
-  },
-  {
-    "word": "hold up",
-    "category": "熟語",
-    "meaning": "持ちこたえる、遅らせる",
-    "example": "The project was held up by a delay.",
-    "translation": "プロジェクトは遅れによって遅延した。"
-  },
-  {
-    "word": "provision",
-    "category": "会計・監査",
-    "meaning": "引当金、準備、規定",
-    "example": "The company recognized a provision for losses.",
-    "translation": "会社は損失引当金を計上しました。"
-  },
-  {
-    "word": "retirement provision",
-    "category": "会計・監査",
-    "meaning": "退職給付引当金",
-    "example": "The company recorded a retirement provision.",
-    "translation": "会社は退職給付引当金を計上しました。"
-  },
-  {
-    "word": "allegation",
-    "category": "ビジネス英語",
-    "meaning": "申し立て、疑惑",
-    "example": "The allegation was investigated.",
-    "translation": "その疑惑は調査されました。"
-  },
-  {
-    "word": "embezzling",
-    "category": "ビジネス英語",
-    "meaning": "横領すること",
-    "example": "He was accused of embezzling company funds.",
-    "translation": "彼は会社資金を横領したとして告発された。"
-  },
-  {
-    "word": "red flag",
-    "category": "ビジネス英語",
-    "meaning": "危険信号、注意すべき兆候",
-    "example": "This issue is a red flag.",
-    "translation": "この問題は危険信号です。"
-  },
-  {
-    "word": "creep up",
-    "category": "熟語",
-    "meaning": "徐々に近づく、じわじわ増える",
-    "example": "Costs are creeping up.",
-    "translation": "コストが徐々に上昇しています。"
-  },
-  {
-    "word": "strive for",
-    "category": "熟語",
-    "meaning": "〜を目指して努力する",
-    "example": "We strive for excellence.",
-    "translation": "私たちは卓越性を目指して努力しています。"
-    
-  },
-  [
-  {
-    "word": "uphold",
-    "category": "ビジネス英語",
-    "meaning": "支持する、維持する、守る",
-    "example": "We must uphold professional standards.",
-    "translation": "私たちは職業基準を守らなければなりません。"
-  },
-  {
-    "word": "liable to",
-    "category": "熟語",
-    "meaning": "〜しがちな、〜する可能性がある",
-    "example": "Costs are liable to increase.",
-    "translation": "コストは増加する可能性があります。"
-  },
-  {
-    "word": "intrinsic",
-    "category": "ビジネス英語",
-    "meaning": "本質的な、固有の",
-    "example": "Trust has intrinsic value.",
-    "translation": "信頼には本質的な価値があります。"
-  },
-  {
-    "word": "turnover",
-    "category": "ビジネス英語",
-    "meaning": "売上高、離職率、回転率",
-    "example": "The company increased its turnover.",
-    "translation": "会社は売上高を増加させました。"
-  },
-  {
-    "word": "backlog",
-    "category": "ビジネス英語",
-    "meaning": "受注残、未処理案件",
-    "example": "The company has a large backlog.",
-    "translation": "会社には大量の受注残があります。"
-  },
-  {
-    "word": "grind to a halt",
-    "category": "熟語",
-    "meaning": "完全に停止する",
-    "example": "Production ground to a halt.",
-    "translation": "生産は完全に停止しました。"
-  },
-  {
-    "word": "rampage",
-    "category": "一般英語",
-    "meaning": "暴走、乱暴な行動",
-    "example": "The animal went on a rampage.",
-    "translation": "その動物は暴れ回りました。"
-  },
-  {
-    "word": "sort it out",
-    "category": "熟語",
-    "meaning": "解決する、整理する",
-    "example": "We need to sort this issue out.",
-    "translation": "この問題を解決する必要があります。"
-  },
-  {
-    "word": "sift through",
-    "category": "熟語",
-    "meaning": "詳しく調べる、ふるいにかける",
-    "example": "We sifted through the documents.",
-    "translation": "書類を詳しく調べました。"
-  },
-  {
-    "word": "lean staff",
-    "category": "ビジネス英語",
-    "meaning": "少人数の効率的な人員",
-    "example": "The company operates with lean staff.",
-    "translation": "その会社は少人数の体制で運営しています。"
-  },
-  {
-    "word": "vet",
-    "category
+  }
+,
 {
-  "word": "tie out",
-  "category": "会計・監査",
-  "meaning": "照合する、突合する",
-  "example": "The auditor tied out the financial statements.",
-  "translation": "監査人は財務諸表を照合しました。"
-},
-{
-  "word": "carry out",
-  "category": "ビジネス英語",
-  "meaning": "実行する、実施する",
-  "example": "We carried out an audit procedure.",
-  "translation": "監査手続きを実施しました。"
-},
-{
-  "word": "undertake",
-  "category": "ビジネス英語",
-  "meaning": "引き受ける、実施する",
-  "example": "The company undertook a major project.",
-  "translation": "会社は大規模なプロジェクトを実施しました。"
-},
-{
-  "word": "overarching",
-  "category": "ビジネス英語",
-  "meaning": "包括的な、全体を覆う",
-  "example": "The overarching goal is growth.",
-  "translation": "包括的な目標は成長です。"
-},
-{
-  "word": "configuration",
-  "category": "ビジネス英語",
-  "meaning": "構成、設定",
-  "example": "The system configuration was changed.",
-  "translation": "システム設定が変更されました。"
-},
-{
-  "word": "ingest",
-  "category": "IT・ビジネス",
-  "meaning": "取り込む、吸収する",
-  "example": "The system ingests large amounts of data.",
-  "translation": "そのシステムは大量のデータを取り込みます。"
-},
-{
-  "word": "cut back on",
-  "category": "熟語",
-  "meaning": "〜を削減する",
-  "example": "We need to cut back on costs.",
-  "translation": "コストを削減する必要があります。"
-},
-{
-  "word": "filter up",
-  "category": "熟語",
-  "meaning": "上層へ伝わる",
-  "example": "The information filtered up to management.",
-  "translation": "情報は経営層まで伝わりました。"
-},
-{
-  "word": "treasure trove",
+  "word": "feeble",
   "category": "一般英語",
-  "meaning": "宝庫",
-  "example": "The report is a treasure trove of information.",
-  "translation": "その報告書は情報の宝庫です。"
+  "meaning": "弱々しい、力のない",
+  "example": "He gave a feeble excuse.",
+  "translation": "彼は弱々しい言い訳をした。"
 },
-
+{
+  "word": "hold up",
+  "category": "熟語",
+  "meaning": "持ちこたえる、遅らせる",
+  "example": "The project was held up by a delay.",
+  "translation": "プロジェクトは遅れによって遅延した。"
+},
+{
+  "word": "provision",
+  "category": "会計・監査",
+  "meaning": "引当金、準備、規定",
+  "example": "The company recognized a provision for losses.",
+  "translation": "会社は損失引当金を計上しました。"
+},
+{
+  "word": "retirement provision",
+  "category": "会計・監査",
+  "meaning": "退職給付引当金",
+  "example": "The company recorded a retirement provision.",
+  "translation": "会社は退職給付引当金を計上しました。"
+},
+{
+  "word": "allegation",
+  "category": "ビジネス英語",
+  "meaning": "申し立て、疑惑",
+  "example": "The allegation was investigated.",
+  "translation": "その疑惑は調査されました。"
+},
+{
+  "word": "embezzling",
+  "category": "ビジネス英語",
+  "meaning": "横領すること",
+  "example": "He was accused of embezzling company funds.",
+  "translation": "彼は会社資金を横領したとして告発された。"
+},
+{
+  "word": "red flag",
+  "category": "ビジネス英語",
+  "meaning": "危険信号、注意すべき兆候",
+  "example": "This issue is a red flag.",
+  "translation": "この問題は危険信号です。"
+},
+{
+  "word": "creep up",
+  "category": "熟語",
+  "meaning": "徐々に近づく、じわじわ増える",
+  "example": "Costs are creeping up.",
+  "translation": "コストが徐々に上昇しています。"
+},
+{
+  "word": "strive for",
+  "category": "熟語",
+  "meaning": "〜を目指して努力する",
+  "example": "We strive for excellence.",
+  "translation": "私たちは卓越性を目指して努力しています。"
+},
+{
+  "word": "uphold",
+  "category": "ビジネス英語",
+  "meaning": "支持する、維持する、守る",
+  "example": "We must uphold professional standards.",
+  "translation": "私たちは職業基準を守らなければなりません。"
+},
+{
+  "word": "liable to",
+  "category": "熟語",
+  "meaning": "〜しがちな、〜する可能性がある",
+  "example": "Costs are liable to increase.",
+  "translation": "コストは増加する可能性があります。"
+},
+{
+  "word": "intrinsic",
+  "category": "ビジネス英語",
+  "meaning": "本質的な、固有の",
+  "example": "Trust has intrinsic value.",
+  "translation": "信頼には本質的な価値があります。"
+},
+{
+  "word": "turnover",
+  "category": "ビジネス英語",
+  "meaning": "売上高、離職率、回転率",
+  "example": "The company increased its turnover.",
+  "translation": "会社は売上高を増加させました。"
+},
+{
+  "word": "backlog",
+  "category": "ビジネス英語",
+  "meaning": "受注残、未処理案件",
+  "example": "The company has a large backlog.",
+  "translation": "会社には大量の受注残があります。"
+},
+{
+  "word": "grind to a halt",
+  "category": "熟語",
+  "meaning": "完全に停止する",
+  "example": "Production ground to a halt.",
+  "translation": "生産は完全に停止しました。"
+},
+{
+  "word": "rampage",
+  "category": "一般英語",
+  "meaning": "暴走、乱暴な行動",
+  "example": "The animal went on a rampage.",
+  "translation": "その動物は暴れ回りました。"
+},
+{
+  "word": "sort it out",
+  "category": "熟語",
+  "meaning": "解決する、整理する",
+  "example": "We need to sort this issue out.",
+  "translation": "この問題を解決する必要があります。"
+},
+{
+  "word": "sift through",
+  "category": "熟語",
+  "meaning": "詳しく調べる、ふるいにかける",
+  "example": "We sifted through the documents.",
+  "translation": "書類を詳しく調べました。"
+},
+{
+  "word": "lean staff",
+  "category": "ビジネス英語",
+  "meaning": "少人数の効率的な人員",
+  "example": "The company operates with lean staff.",
+  "translation": "その会社は少人数の体制で運営しています。"
+},
+{
+  "word": "vet",
+  "category": "ビジネス英語",
+  "meaning": "審査する、精査する",
+  "example": "We need to vet the supplier.",
+  "translation": "供給業者を精査する必要があります。"
+},
 {
   "word": "tie out",
   "category": "会計・監査",
@@ -412,523 +349,5 @@
   "meaning": "車を路肩に寄せる",
   "example": "The driver pulled over.",
   "translation": "運転手は車を路肩に停めました。"
-},
-{
-  "word": "impairment",
-  "category": "会計・監査",
-  "meaning": "減損",
-  "example": "The company recognized an impairment loss.",
-  "translation": "会社は減損損失を認識しました。"
-},
-{
-  "word": "recoverable amount",
-  "category": "IFRS・会計",
-  "meaning": "回収可能価額",
-  "example": "The recoverable amount exceeded the carrying amount.",
-  "translation": "回収可能価額は帳簿価額を上回りました。"
-},
-{
-  "word": "carrying amount",
-  "category": "IFRS・会計",
-  "meaning": "帳簿価額",
-  "example": "The carrying amount was reviewed.",
-  "translation": "帳簿価額が見直されました。"
-},
-{
-  "word": "recognize",
-  "category": "会計英語",
-  "meaning": "認識する、計上する",
-  "example": "Revenue was recognized in the period.",
-  "translation": "収益はその期間に認識されました。"
-},
-{
-  "word": "allocate",
-  "category": "会計英語",
-  "meaning": "配分する",
-  "example": "Costs were allocated to each department.",
-  "translation": "コストは各部門に配分されました。"
-},
-{
-  "word": "disclose",
-  "category": "会計英語",
-  "meaning": "開示する",
-  "example": "The company disclosed significant risks.",
-  "translation": "会社は重要なリスクを開示しました。"
-},
-{
-  "word": "material",
-  "category": "監査英語",
-  "meaning": "重要な、重要性のある",
-  "example": "This is a material misstatement.",
-  "translation": "これは重要な虚偽表示です。"
-},
-{
-  "word": "misstatement",
-  "category": "監査英語",
-  "meaning": "虚偽表示",
-  "example
-
-},
-{
-  "word": "overwhelmed",
-  "category": "一般英語",
-  "meaning": "圧倒された、困惑した",
-  "example": "I was overwhelmed by the occasion.",
-  "translation": "その場の雰囲気に圧倒されました。"
-},
-{
-  "word": "occasion",
-  "category": "一般英語",
-  "meaning": "出来事、機会",
-  "example": "It was a special occasion.",
-  "translation": "それは特別な出来事でした。"
-},
-{
-  "word": "end up",
-  "category": "熟語",
-  "meaning": "結局〜になる",
-  "example": "We ended up changing the plan.",
-  "translation": "結局計画を変更しました。"
-},
-{
-  "word": "come across",
-  "category": "熟語",
-  "meaning": "偶然出会う、〜という印象を与える",
-  "example": "I came across an interesting article.",
-  "translation": "興味深い記事を偶然見つけました。"
-},
-{
-  "word": "back out",
-  "category": "熟語",
-  "meaning": "撤回する、手を引く",
-  "example": "He backed out of the deal.",
-  "translation": "彼は取引から手を引きました。"
-},
-{
-  "word": "cross out",
-  "category": "熟語",
-  "meaning": "線を引いて消す",
-  "example": "Please cross out the wrong answer.",
-  "translation": "間違った回答に線を引いて消してください。"
-},
-{
-  "word": "fall out with",
-  "category": "熟語",
-  "meaning": "〜と仲たがいする",
-  "example": "He fell out with his colleague.",
-  "translation": "彼は同僚と仲たがいしました。"
-},
-{
-  "word": "take offence",
-  "category": "熟語",
-  "meaning": "気分を害する",
-  "example": "She took offence at his comment.",
-  "translation": "彼女は彼の発言に気分を害しました。"
-},
-{
-  "word": "chat up",
-  "category": "熟語",
-  "meaning": "話しかけて口説く",
-  "example": "He tried to chat her up.",
-  "translation": "彼は彼女に話しかけて口説こうとしました。"
-},
-{
-  "word": "halfway through",
-  "category": "熟語",
-  "meaning": "途中まで",
-  "example": "I am halfway through the book.",
-  "translation": "本を半分まで読みました。"
-},
-{
-  "word": "intrigue",
-  "category": "一般英語",
-  "meaning": "興味を引く、陰謀",
-  "example": "The story intrigued me.",
-  "translation": "その話は私の興味を引きました。"
-},
-{
-  "word": "flair",
-  "category": "一般英語",
-  "meaning": "才能、センス",
-  "example": "She has a flair for languages.",
-  "translation": "彼女には語学の才能があります。"
-},
-{
-  "word": "plump",
-  "category": "一般英語",
-  "meaning": "ふっくらした",
-  "example": "The baby has plump cheeks.",
-  "translation": "赤ちゃんはふっくらしたほっぺをしています。"
-},
-{
-  "word": "skinny",
-  "category": "一般英語",
-  "meaning": "やせた",
-  "example": "He was very skinny when he was young.",
-  "translation": "彼は若い頃とても痩せていました。"
-},
-{
-  "word": "numb",
-  "category": "一般英語",
-  "meaning": "麻痺した、感覚がない",
-  "example": "My fingers are numb.",
-  "translation": "指の感覚がありません。"
-},
-{
-  "word": "expiry",
-  "category": "ビジネス英語",
-  "meaning": "有効期限",
-  "example": "Check the expiry date.",
-  "translation": "有効期限を確認してください。"
-},
-{
-{
-  "word": "overwhelmed",
-  "category": "一般英語",
-  "meaning": "圧倒された、困惑した",
-  "example": "I was overwhelmed by the occasion.",
-  "translation": "その場の雰囲気に圧倒されました。"
-},
-{
-  "word": "occasion",
-  "category": "一般英語",
-  "meaning": "出来事、機会",
-  "example": "It was a special occasion.",
-  "translation": "それは特別な出来事でした。"
-},
-{
-  "word": "end up",
-  "category": "熟語",
-  "meaning": "結局〜になる",
-  "example": "We ended up changing the plan.",
-  "translation": "結局計画を変更しました。"
-},
-{
-  "word": "come across",
-  "category": "熟語",
-  "meaning": "偶然出会う、〜という印象を与える",
-  "example": "I came across an interesting article.",
-  "translation": "興味深い記事を偶然見つけました。"
-},
-{
-  "word": "back out",
-  "category": "熟語",
-  "meaning": "撤回する、手を引く",
-  "example": "He backed out of the deal.",
-  "translation": "彼は取引から手を引きました。"
-},
-{
-  "word": "cross out",
-  "category": "熟語",
-  "meaning": "線を引いて消す",
-  "example": "Please cross out the wrong answer.",
-  "translation": "間違った回答に線を引いて消してください。"
-},
-{
-  "word": "fall out with",
-  "category": "熟語",
-  "meaning": "〜と仲たがいする",
-  "example": "He fell out with his colleague.",
-  "translation": "彼は同僚と仲たがいしました。"
-},
-{
-  "word": "take offence",
-  "category": "熟語",
-  "meaning": "気分を害する",
-  "example": "She took offence at his comment.",
-  "translation": "彼女は彼の発言に気分を害しました。"
-},
-{
-  "word": "chat up",
-  "category": "熟語",
-  "meaning": "話しかけて口説く",
-  "example": "He tried to chat her up.",
-  "translation": "彼は彼女に話しかけて口説こうとしました。"
-},
-{
-  "word": "halfway through",
-  "category": "熟語",
-  "meaning": "途中まで",
-  "example": "I am halfway through the book.",
-  "translation": "本を半分まで読みました。"
-},
-{
-  "word": "intrigue",
-  "category": "一般英語",
-  "meaning": "興味を引く、陰謀",
-  "example": "The story intrigued me.",
-  "translation": "その話は私の興味を引きました。"
-},
-{
-  "word": "flair",
-  "category": "一般英語",
-  "meaning": "才能、センス",
-  "example": "She has a flair for languages.",
-  "translation": "彼女には語学の才能があります。"
-},
-{
-  "word": "plump",
-  "category": "一般英語",
-  "meaning": "ふっくらした",
-  "example": "The baby has plump cheeks.",
-  "translation": "赤ちゃんはふっくらしたほっぺをしています。"
-},
-{
-  "word": "skinny",
-  "category": "一般英語",
-  "meaning": "やせた",
-  "example": "He was very skinny when he was young.",
-  "translation": "彼は若い頃とても痩せていました。"
-},
-{
-  "word": "numb",
-  "category": "一般英語",
-  "meaning": "麻痺した、感覚がない",
-  "example": "My fingers are numb.",
-  "translation": "指の感覚がありません。"
-},
-{
-  "word": "expiry",
-  "category": "ビジネス英語",
-  "meaning": "有効期限",
-  "example": "Check the expiry date.",
-  "translation": "有効期限を確認してください。"
-},
-{
-  "word": "frugal",
-  "category": "一般英語",
-  "meaning": "倹約的な",
-  "example": "He is frugal with money.",
-  "translation": "彼はお金に倹約的です。"
-},
-{
-  "word": "intimidate",
-  "category": "一般英語",
-  "meaning": "威圧する",
-  "example": "The difficult task intimidated him.",
-  "translation": "難しい仕事は彼をひるませました。"
-},
-{
-  "word": "class clown",
-  "category": "一般英語",
-  "meaning": "クラスのお調子者",
-  "example": "He was the class clown.",
-  "translation": "彼はクラスのお調子者でした。"
-},
-{
-  "word": "big shot",
-  "category": "一般英語",
-  "meaning": "大物、重要人物",
-  "example": "He thinks he is a big shot.",
-  "translation": "彼は自分を大物だと思っています。"
-},
-{
-  "word": "uppermost",
-  "category": "一般英語",
-  "meaning": "最も上の、最優先の",
-  "example": "Safety is uppermost in our minds.",
-  "translation": "安全が最優先です。"
-},
-{
-  "word": "correspond",
-  "category": "ビジネス英語",
-  "meaning": "一致する、対応する",
-  "example": "The figures correspond with the report.",
-  "translation": "数値は報告書と一致します。"
-},
-{
-  "word": "feeble",
-  "category": "一般英語",
-  "meaning": "弱々しい",
-  "example": "He made a feeble attempt.",
-  "translation": "彼は弱々しい試みをしました。"
-},
-{
-  "word": "obedient",
-  "category": "一般英語",
-  "meaning": "従順な",
-  "example": "The dog is very obedient.",
-  "translation": "その犬はとても従順です。"
-},
-{
-  "word": "enrol",
-  "category": "一般英語",
-  "meaning": "登録する、入学する",
-  "example": "She enrolled in a course.",
-  "translation": "彼女は講座に登録しました。"
-},
-    {
-  "word": "set the scene",
-  "category": "熟語",
-  "meaning": "状況を説明する、場面を設定する",
-  "example": "The introduction sets the scene for the story.",
-  "translation": "導入部分が物語の背景を説明します。"
-},
-{
-  "word": "put back on the table",
-  "category": "ビジネス英語",
-  "meaning": "再び検討対象に戻す",
-  "example": "We put the proposal back on the table.",
-  "translation": "提案を再び検討対象に戻しました。"
-},
-{
-  "word": "go into a single stack",
-  "category": "ビジネス英語",
-  "meaning": "一つにまとめる",
-  "example": "The documents go into a single stack.",
-  "translation": "書類は一つにまとめられます。"
-},
-{
-  "word": "endorsement",
-  "category": "ビジネス英語",
-  "meaning": "承認、支持",
-  "example": "The plan received management endorsement.",
-  "translation": "計画は経営陣の承認を得ました。"
-},
-{
-  "word": "remiss",
-  "category": "ビジネス英語",
-  "meaning": "怠慢な、不注意な",
-  "example": "It would be remiss not to check the data.",
-  "translation": "データを確認しないのは怠慢です。"
-},
-{
-  "word": "deposit total",
-  "category": "会計英語",
-  "meaning": "預金合計",
-  "example": "We confirmed the deposit total.",
-  "translation": "預金合計を確認しました。"
-},
-{
-  "word": "flatbed",
-  "category": "一般英語",
-  "meaning": "平床トラック、平台",
-  "example": "The equipment was transported by flatbed truck.",
-  "translation": "設備は平台トラックで運ばれました。"
-},
-{
-  "word": "biometric time clock",
-  "category": "ビジネス英語",
-  "meaning": "生体認証タイムカード",
-  "example": "The company introduced biometric time clocks.",
-  "translation": "会社は生体認証勤怠システムを導入しました。"
-},
-{
-  "word": "hand punch",
-  "category": "ビジネス英語",
-  "meaning": "手のひら認証機",
-  "example": "Employees use a hand punch system.",
-  "translation": "従業員は手のひら認証システムを使います。"
-},
-{
-  "word": "actual engagement",
-  "category": "ビジネス英語",
-  "meaning": "実際の契約・業務関与",
-  "example": "The actual engagement started in April.",
-  "translation": "実際の業務契約は4月に開始しました。"
-},
-{
-  "word": "political affairs",
-  "category": "一般英語",
-  "meaning": "政治情勢",
-  "example": "Political affairs affect the economy.",
-  "translation": "政治情勢は経済に影響します。"
-},
-{
-  "word": "outcry",
-  "category": "一般英語",
-  "meaning": "抗議、非難の声",
-  "example": "The decision caused public outcry.",
-  "translation": "その決定は世論の強い反発を招きました。"
-},
-{
-  "word": "pass out",
-  "category": "熟語",
-  "meaning": "気絶する、配布する",
-  "example": "He passed out from exhaustion.",
-  "translation": "彼は疲労で気絶しました。"
-},
-{
-  "word": "deed",
-  "category": "一般英語",
-  "meaning": "行為、証書",
-  "example": "A good deed helps others.",
-  "translation": "善い行いは人を助けます。"
-},
-{
-  "word": "get out of",
-  "category": "熟語",
-  "meaning": "抜け出す、避ける",
-  "example": "He tried to get out of the meeting.",
-  "translation": "彼は会議を避けようとしました。"
-},
-{
-  "word": "enrol",
-  "category": "一般英語",
-  "meaning": "登録する",
-  "example": "I enrolled in an English course.",
-  "translation": "英語コースに登録しました。"
-},
-{
-  "word": "actual",
-  "category": "一般英語",
-  "meaning": "実際の",
-  "example": "The actual result was different.",
-  "translation": "実際の結果は異なりました。"
-},
-{
-  "word": "overarching goal",
-  "category": "ビジネス英語",
-  "meaning": "最上位の目標",
-  "example": "Our overarching goal is customer satisfaction.",
-  "translation": "最上位の目標は顧客満足です。"
-},
-{
-  "word": "broad brushstrokes",
-  "category": "ビジネス英語",
-  "meaning": "大まかな概要",
-  "example": "He explained the plan in broad brushstrokes.",
-  "translation": "彼は計画の概要を説明しました。"
-},
-{
-  "word": "layperson",
-  "category": "一般英語",
-  "meaning": "素人、専門家ではない人",
-  "example": "The explanation is easy for a layperson to understand.",
-  "translation": "その説明は素人にも分かりやすいです。"
-},
-{
-  "word": "in this day and age",
-  "category": "熟語",
-  "meaning": "現代では",
-  "example": "In this day and age, technology is essential.",
-  "translation": "現代では技術は不可欠です。"
-},
-{
-  "word": "night depository box",
-  "category": "ビジネス英語",
-  "meaning": "夜間預金箱",
-  "example": "The bank has a night depository box.",
-  "translation": "銀行には夜間預金箱があります。"
-},
-{
-  "word": "wear mini hats",
-  "category": "一般英語",
-  "meaning": "小さな帽子をかぶる",
-  "example": "The children wear mini hats.",
-  "translation": "子供たちは小さな帽子をかぶります。"
-},
-{
-  "word": "stay your ground",
-  "category": "熟語",
-  "meaning": "自分の立場を守る",
-  "example": "You need to stay your ground.",
-  "translation": "自分の立場を守る必要があります。"
-},
-{
-  "word": "get into shape",
-  "category": "熟語",
-  "meaning": "体調を整える",
-  "example": "I want to get into shape.",
-  "translation": "体を鍛えたいです。"
 }
+]
