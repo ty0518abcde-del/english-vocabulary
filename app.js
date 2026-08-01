@@ -58,5 +58,15 @@ searchInput.addEventListener("input", () => {
     showWord();
   }
 });
+const speakButton = document.getElementById("speakButton");
 
+speakButton.addEventListener("click", () => {
+  const text = wordEl.textContent;
+
+  const speech = new SpeechSynthesisUtterance(text);
+  speech.lang = "en-US";
+  speech.rate = 0.8;
+
+  window.speechSynthesis.speak(speech);
+});
 loadWords();
