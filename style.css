@@ -1,1 +1,67 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+  color: #222;
+}
+
+header {
+  background: #2563eb;
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+
+main {
+  max-width: 700px;
+  margin: 24px auto;
+  padding: 16px;
+}
+
+#search {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+#card {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  margin-top: 20px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#word {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+#answer {
+  margin-top: 20px;
+}
+
+#meaning {
+  color: #2563eb;
+}
+
+button {
+  margin-top: 16px;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background: #2563eb;
+  color: white;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
 
