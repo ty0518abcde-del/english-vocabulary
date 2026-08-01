@@ -1,32 +1,72 @@
 [
   {
     "word": "rip off",
+    "category": "熟語",
     "meaning": "ぼったくる、だます",
     "example": "That shop tried to rip me off.",
     "translation": "あの店は私をぼったくろうとした。"
   },
   {
     "word": "bruise",
+    "category": "一般英語",
     "meaning": "あざ、打撲傷",
     "example": "I got a bruise on my arm.",
     "translation": "腕にあざができた。"
   },
   {
     "word": "out of order",
-    "meaning": "故障している",
+    "category": "熟語",
+    "meaning": "故障している、使用不能",
     "example": "The elevator is out of order.",
     "translation": "エレベーターは故障しています。"
   },
   {
     "word": "get away with",
+    "category": "熟語",
     "meaning": "〜をしても罰を受けずに済む",
     "example": "He got away with cheating.",
-    "translation": "彼はカンニングをしても罰を受けずに済んだ。"
+    "translation": "彼は不正をしても罰を受けなかった。"
   },
   {
     "word": "stick it out",
+    "category": "熟語",
     "meaning": "最後までやり抜く",
-    "example": "Let's stick it out together.",
-    "translation": "最後まで一緒に頑張ろう。"
+    "example": "We need to stick it out until the end.",
+    "translation": "最後までやり抜く必要があります。"
+  },
+  {
+    "word": "habitation",
+    "category": "一般英語",
+    "meaning": "居住、住居",
+    "example": "The island has no human habitation.",
+    "translation": "その島には人の居住がない。"
+  },
+  {
+    "word": "courage",
+    "category": "一般英語",
+    "meaning": "勇気",
+    "example": "It takes courage to admit mistakes.",
+    "translation": "間違いを認めるには勇気が必要です。"
+  },
+  {
+    "word": "out of sight",
+    "category": "熟語",
+    "meaning": "見えないところに",
+    "example": "Keep it out of sight.",
+    "translation": "それを見えない場所に置いてください。"
+  },
+  {
+    "word": "in sight",
+    "category": "熟語",
+    "meaning": "見えている、間近に",
+    "example": "Success is in sight.",
+    "translation": "成功は目前です。"
+  },
+  {
+    "word": "hectic working lives",
+    "category": "ビジネス英語",
+    "meaning": "忙しい仕事生活",
+    "example": "Many people have hectic working lives.",
+    "translation": "多くの人は忙しい仕事生活を送っています。"
   }
 ]
