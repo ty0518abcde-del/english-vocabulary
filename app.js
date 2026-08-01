@@ -69,4 +69,37 @@ speakButton.addEventListener("click", () => {
 
   window.speechSynthesis.speak(speech);
 });
+
+const favoriteButton = document.getElementById("favoriteButton");
+const weakButton = document.getElementById("weakButton");
+
+let favorites = JSON.parse(localStorage.getItem("favorites")) || [];
+let weakWords = JSON.parse(localStorage.getItem("weakWords")) || [];
+
+favoriteButton.addEventListener("click", () => {
+  const word = wordEl.textContent;
+
+  if (!favorites.includes(word)) {
+    favorites.push(word);
+    localStorage.setItem(
+      "favorites",
+      JSON.stringify(favorites)
+    );
+    alert("⭐ お気に入りに追加しました");
+  }
+});
+
+
+weakButton.addEventListener("click", () => {
+  const word = wordEl.textContent;
+
+  if (!weakWords.includes(word)) {
+    weakWords.push(word);
+    localStorage.setItem(
+      "weakWords",
+      JSON.stringify(weakWords)
+    );
+    alert("❌ 苦手単語に追加しました");
+  }
+});
 loadWords();
