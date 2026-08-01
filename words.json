@@ -308,3 +308,108 @@
   "translation": "その報告書は情報の宝庫です。"
 },
 
+{
+  "word": "tie out",
+  "category": "会計・監査",
+  "meaning": "照合する、突合する",
+  "example": "The auditor tied out the financial statements.",
+  "translation": "監査人は財務諸表を照合しました。"
+},
+{
+  "word": "carry out",
+  "category": "ビジネス英語",
+  "meaning": "実行する、実施する",
+  "example": "We carried out an audit procedure.",
+  "translation": "監査手続きを実施しました。"
+},
+{
+  "word": "undertake",
+  "category": "ビジネス英語",
+  "meaning": "引き受ける、実施する",
+  "example": "The company undertook a major project.",
+  "translation": "会社は大規模なプロジェクトを実施しました。"
+},
+{
+  "word": "overarching",
+  "category": "ビジネス英語",
+  "meaning": "包括的な、全体を覆う",
+  "example": "The overarching goal is growth.",
+  "translation": "包括的な目標は成長です。"
+},
+{
+  "word": "configuration",
+  "category": "ビジネス英語",
+  "meaning": "構成、設定",
+  "example": "The system configuration was changed.",
+  "translation": "システム設定が変更されました。"
+},
+{
+  "word": "ingest",
+  "category": "IT・ビジネス",
+  "meaning": "取り込む、吸収する",
+  "example": "The system ingests large amounts of data.",
+  "translation": "そのシステムは大量のデータを取り込みます。"
+},
+{
+  "word": "cut back on",
+  "category": "熟語",
+  "meaning": "〜を削減する",
+  "example": "We need to cut back on costs.",
+  "translation": "コストを削減する必要があります。"
+},
+{
+  "word": "filter up",
+  "category": "熟語",
+  "meaning": "上層へ伝わる",
+  "example": "The information filtered up to management.",
+  "translation": "情報は経営層まで伝わりました。"
+},
+{
+  "word": "treasure trove",
+  "category": "一般英語",
+  "meaning": "宝庫",
+  "example": "The report is a treasure trove of information.",
+  "translation": "その報告書は情報の宝庫です。"
+},
+{
+  "word": "get a hold of",
+  "category": "熟語",
+  "meaning": "手に入れる、連絡を取る",
+  "example": "I will get a hold of him tomorrow.",
+  "translation": "明日彼に連絡します。"
+},
+{
+  "word": "gouge",
+  "category": "ビジネス英語",
+  "meaning": "法外な値段を取る",
+  "example": "The supplier gouged customers on prices.",
+  "translation": "供給業者は顧客に高額な価格を要求しました。"
+},
+{
+  "word": "appalling",
+  "category": "一般英語",
+  "meaning": "ぞっとするほど悪い",
+  "example": "The service was appalling.",
+  "translation": "サービスはひどいものでした。"
+},
+{
+  "word": "at all costs",
+  "category": "熟語",
+  "meaning": "どんな犠牲を払っても",
+  "example": "We must protect quality at all costs.",
+  "translation": "どんな犠牲を払っても品質を守らなければなりません。"
+},
+{
+  "word": "turn up",
+  "category": "熟語",
+  "meaning": "現れる、増える",
+  "example": "He turned up late.",
+  "translation": "彼は遅れて現れました。"
+},
+{
+  "word": "pull over",
+  "category": "熟語",
+  "meaning": "車を路肩に寄せる",
+  "example": "The driver pulled over.",
+  "translation": "運転手は車を路肩に停めました。"
+},
