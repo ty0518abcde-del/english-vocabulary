@@ -469,3 +469,291 @@
   "example
 
 },
+{
+  "word": "overwhelmed",
+  "category": "一般英語",
+  "meaning": "圧倒された、困惑した",
+  "example": "I was overwhelmed by the occasion.",
+  "translation": "その場の雰囲気に圧倒されました。"
+},
+{
+  "word": "occasion",
+  "category": "一般英語",
+  "meaning": "出来事、機会",
+  "example": "It was a special occasion.",
+  "translation": "それは特別な出来事でした。"
+},
+{
+  "word": "end up",
+  "category": "熟語",
+  "meaning": "結局〜になる",
+  "example": "We ended up changing the plan.",
+  "translation": "結局計画を変更しました。"
+},
+{
+  "word": "come across",
+  "category": "熟語",
+  "meaning": "偶然出会う、〜という印象を与える",
+  "example": "I came across an interesting article.",
+  "translation": "興味深い記事を偶然見つけました。"
+},
+{
+  "word": "back out",
+  "category": "熟語",
+  "meaning": "撤回する、手を引く",
+  "example": "He backed out of the deal.",
+  "translation": "彼は取引から手を引きました。"
+},
+{
+  "word": "cross out",
+  "category": "熟語",
+  "meaning": "線を引いて消す",
+  "example": "Please cross out the wrong answer.",
+  "translation": "間違った回答に線を引いて消してください。"
+},
+{
+  "word": "fall out with",
+  "category": "熟語",
+  "meaning": "〜と仲たがいする",
+  "example": "He fell out with his colleague.",
+  "translation": "彼は同僚と仲たがいしました。"
+},
+{
+  "word": "take offence",
+  "category": "熟語",
+  "meaning": "気分を害する",
+  "example": "She took offence at his comment.",
+  "translation": "彼女は彼の発言に気分を害しました。"
+},
+{
+  "word": "chat up",
+  "category": "熟語",
+  "meaning": "話しかけて口説く",
+  "example": "He tried to chat her up.",
+  "translation": "彼は彼女に話しかけて口説こうとしました。"
+},
+{
+  "word": "halfway through",
+  "category": "熟語",
+  "meaning": "途中まで",
+  "example": "I am halfway through the book.",
+  "translation": "本を半分まで読みました。"
+},
+{
+  "word": "intrigue",
+  "category": "一般英語",
+  "meaning": "興味を引く、陰謀",
+  "example": "The story intrigued me.",
+  "translation": "その話は私の興味を引きました。"
+},
+{
+  "word": "flair",
+  "category": "一般英語",
+  "meaning": "才能、センス",
+  "example": "She has a flair for languages.",
+  "translation": "彼女には語学の才能があります。"
+},
+{
+  "word": "plump",
+  "category": "一般英語",
+  "meaning": "ふっくらした",
+  "example": "The baby has plump cheeks.",
+  "translation": "赤ちゃんはふっくらしたほっぺをしています。"
+},
+{
+  "word": "skinny",
+  "category": "一般英語",
+  "meaning": "やせた",
+  "example": "He was very skinny when he was young.",
+  "translation": "彼は若い頃とても痩せていました。"
+},
+{
+  "word": "numb",
+  "category": "一般英語",
+  "meaning": "麻痺した、感覚がない",
+  "example": "My fingers are numb.",
+  "translation": "指の感覚がありません。"
+},
+{
+  "word": "expiry",
+  "category": "ビジネス英語",
+  "meaning": "有効期限",
+  "example": "Check the expiry date.",
+  "translation": "有効期限を確認してください。"
+},
+{
+{
+  "word": "overwhelmed",
+  "category": "一般英語",
+  "meaning": "圧倒された、困惑した",
+  "example": "I was overwhelmed by the occasion.",
+  "translation": "その場の雰囲気に圧倒されました。"
+},
+{
+  "word": "occasion",
+  "category": "一般英語",
+  "meaning": "出来事、機会",
+  "example": "It was a special occasion.",
+  "translation": "それは特別な出来事でした。"
+},
+{
+  "word": "end up",
+  "category": "熟語",
+  "meaning": "結局〜になる",
+  "example": "We ended up changing the plan.",
+  "translation": "結局計画を変更しました。"
+},
+{
+  "word": "come across",
+  "category": "熟語",
+  "meaning": "偶然出会う、〜という印象を与える",
+  "example": "I came across an interesting article.",
+  "translation": "興味深い記事を偶然見つけました。"
+},
+{
+  "word": "back out",
+  "category": "熟語",
+  "meaning": "撤回する、手を引く",
+  "example": "He backed out of the deal.",
+  "translation": "彼は取引から手を引きました。"
+},
+{
+  "word": "cross out",
+  "category": "熟語",
+  "meaning": "線を引いて消す",
+  "example": "Please cross out the wrong answer.",
+  "translation": "間違った回答に線を引いて消してください。"
+},
+{
+  "word": "fall out with",
+  "category": "熟語",
+  "meaning": "〜と仲たがいする",
+  "example": "He fell out with his colleague.",
+  "translation": "彼は同僚と仲たがいしました。"
+},
+{
+  "word": "take offence",
+  "category": "熟語",
+  "meaning": "気分を害する",
+  "example": "She took offence at his comment.",
+  "translation": "彼女は彼の発言に気分を害しました。"
+},
+{
+  "word": "chat up",
+  "category": "熟語",
+  "meaning": "話しかけて口説く",
+  "example": "He tried to chat her up.",
+  "translation": "彼は彼女に話しかけて口説こうとしました。"
+},
+{
+  "word": "halfway through",
+  "category": "熟語",
+  "meaning": "途中まで",
+  "example": "I am halfway through the book.",
+  "translation": "本を半分まで読みました。"
+},
+{
+  "word": "intrigue",
+  "category": "一般英語",
+  "meaning": "興味を引く、陰謀",
+  "example": "The story intrigued me.",
+  "translation": "その話は私の興味を引きました。"
+},
+{
+  "word": "flair",
+  "category": "一般英語",
+  "meaning": "才能、センス",
+  "example": "She has a flair for languages.",
+  "translation": "彼女には語学の才能があります。"
+},
+{
+  "word": "plump",
+  "category": "一般英語",
+  "meaning": "ふっくらした",
+  "example": "The baby has plump cheeks.",
+  "translation": "赤ちゃんはふっくらしたほっぺをしています。"
+},
+{
+  "word": "skinny",
+  "category": "一般英語",
+  "meaning": "やせた",
+  "example": "He was very skinny when he was young.",
+  "translation": "彼は若い頃とても痩せていました。"
+},
+{
+  "word": "numb",
+  "category": "一般英語",
+  "meaning": "麻痺した、感覚がない",
+  "example": "My fingers are numb.",
+  "translation": "指の感覚がありません。"
+},
+{
+  "word": "expiry",
+  "category": "ビジネス英語",
+  "meaning": "有効期限",
+  "example": "Check the expiry date.",
+  "translation": "有効期限を確認してください。"
+},
+{
+  "word": "frugal",
+  "category": "一般英語",
+  "meaning": "倹約的な",
+  "example": "He is frugal with money.",
+  "translation": "彼はお金に倹約的です。"
+},
+{
+  "word": "intimidate",
+  "category": "一般英語",
+  "meaning": "威圧する",
+  "example": "The difficult task intimidated him.",
+  "translation": "難しい仕事は彼をひるませました。"
+},
+{
+  "word": "class clown",
+  "category": "一般英語",
+  "meaning": "クラスのお調子者",
+  "example": "He was the class clown.",
+  "translation": "彼はクラスのお調子者でした。"
+},
+{
+  "word": "big shot",
+  "category": "一般英語",
+  "meaning": "大物、重要人物",
+  "example": "He thinks he is a big shot.",
+  "translation": "彼は自分を大物だと思っています。"
+},
+{
+  "word": "uppermost",
+  "category": "一般英語",
+  "meaning": "最も上の、最優先の",
+  "example": "Safety is uppermost in our minds.",
+  "translation": "安全が最優先です。"
+},
+{
+  "word": "correspond",
+  "category": "ビジネス英語",
+  "meaning": "一致する、対応する",
+  "example": "The figures correspond with the report.",
+  "translation": "数値は報告書と一致します。"
+},
+{
+  "word": "feeble",
+  "category": "一般英語",
+  "meaning": "弱々しい",
+  "example": "He made a feeble attempt.",
+  "translation": "彼は弱々しい試みをしました。"
+},
+{
+  "word": "obedient",
+  "category": "一般英語",
+  "meaning": "従順な",
+  "example": "The dog is very obedient.",
+  "translation": "その犬はとても従順です。"
+},
+{
+  "word": "enrol",
+  "category": "一般英語",
+  "meaning": "登録する、入学する",
+  "example": "She enrolled in a course.",
+  "translation": "彼女は講座に登録しました。"
+}
