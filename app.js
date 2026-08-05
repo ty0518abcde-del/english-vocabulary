@@ -57,6 +57,19 @@ searchInput.addEventListener("input", () => {
     current = index;
     showWord();
   }
+  updateProgress();
+
+const learnedButton=
+document.getElementById("learnedButton");
+
+if(
+learnedWords.includes(words[current].word)
+){
+learnedButton.innerHTML="✅ 習得済み";
+}else{
+learnedButton.innerHTML="✅ 覚えた";
+}
+  
 });
 const speakButton = document.getElementById("speakButton");
 
@@ -107,3 +120,59 @@ let learnedWords =
 JSON.parse(
 localStorage.getItem("learnedWords")
 ) || [];
+function updateProgress(){
+
+const percent =
+(learnedWords.length/words.length)*100;
+
+document.getElementById("progressBar").style.width=
+percent+"%";
+
+document.getElementById("progressText").innerHTML=
+`${learnedWords.length} / ${words.length}語習得 (${Math.round(percent)}%)`;
+
+}
+
+document
+.getElementById("learnedButton")
+.addEventListener("click",()=>{
+
+const word=words[current].word;
+
+if(!learnedWords.includes(word)){
+
+learnedWords.push(word);
+
+localStorage.setItem(
+"learnedWords",
+JSON.stringify(learnedWords)
+);
+
+updateProgress();
+
+document.getElementById(
+"learnedButton"
+).innerHTML="✅ 習得済み";
+
+}
+
+});
+
+document
+.getElementById("showUnlearned")
+.addEventListener("click",()=>{
+
+words=
+words.filter(
+w=>!learnedWords.includes(w.word)
+);
+
+current=0;
+
+showWord();
+
+});
+
+document
+.getElementById("showAll")
+.addEventListener("click",loadWords);
