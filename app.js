@@ -103,3 +103,7 @@ weakButton.addEventListener("click", () => {
   }
 });
 loadWords();
+let learnedWords =
+JSON.parse(
+localStorage.getItem("learnedWords")
+) || [];
