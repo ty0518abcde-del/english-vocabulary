@@ -981,5 +981,286 @@
   "meaning": "活用する、てこ",
   "example": "We leverage technology to improve efficiency.",
   "translation": "効率改善のため技術を活用します。"
-}
-]
+},
+
+  {
+    "word": "show up",
+    "category": "熟語",
+    "meaning": "現れる、姿を見せる",
+    "example": "He didn't show up for the meeting.",
+    "translation": "彼は会議に現れなかった。"
+  },
+  {
+    "word": "better yet",
+    "category": "熟語",
+    "meaning": "さらに良いことには",
+    "example": "Let's walk, or better yet, ride our bikes.",
+    "translation": "歩いて行こう。いや、それより自転車で行こう。"
+  },
+  {
+    "word": "underutilized",
+    "category": "単語",
+    "meaning": "十分活用されていない",
+    "example": "Many talented employees are underutilized.",
+    "translation": "多くの優秀な社員が十分に活用されていない。"
+  },
+  {
+    "word": "pound sand",
+    "category": "熟語",
+    "meaning": "失せろ、諦めろ（口語）",
+    "example": "He told the scammers to pound sand.",
+    "translation": "彼は詐欺師たちに『失せろ』と言った。"
+  },
+  {
+    "word": "offload excess work",
+    "category": "熟語",
+    "meaning": "余分な仕事を振り分ける",
+    "example": "Managers should offload excess work before deadlines.",
+    "translation": "管理職は締切前に余分な仕事を振り分けるべきだ。"
+  },
+  {
+    "word": "break loose a few employees",
+    "category": "熟語",
+    "meaning": "数人の社員を確保する",
+    "example": "Can we break loose a few employees for this project?",
+    "translation": "このプロジェクトのために数人の社員を確保できますか。"
+  },
+  {
+    "word": "old clunker",
+    "category": "熟語",
+    "meaning": "ポンコツ車",
+    "example": "He still drives an old clunker.",
+    "translation": "彼はいまだにポンコツ車に乗っている。"
+  },
+  {
+    "word": "fill up a crate with parts",
+    "category": "熟語",
+    "meaning": "箱いっぱいに部品を詰める",
+    "example": "They filled up a crate with spare parts.",
+    "translation": "彼らは箱いっぱいに予備部品を詰めた。"
+  },
+  {
+    "word": "artificial buildup",
+    "category": "熟語",
+    "meaning": "人工的な蓄積",
+    "example": "The report warned about an artificial buildup of inventory.",
+    "translation": "その報告書は在庫の人為的な積み上がりを警告した。"
+  },
+  {
+    "word": "keep chugging along",
+    "category": "熟語",
+    "meaning": "着実に進み続ける",
+    "example": "The project kept chugging along despite the delays.",
+    "translation": "そのプロジェクトは遅れがあっても着実に進み続けた。"
+  }
+  ,
+  {
+    "word": "it may seem as though",
+    "category": "熟語",
+    "meaning": "～のように見える",
+    "example": "It may seem as though nothing has changed.",
+    "translation": "何も変わっていないように見えるかもしれない。"
+  },
+  {
+    "word": "hard to derive",
+    "category": "熟語",
+    "meaning": "導き出すのが難しい",
+    "example": "The conclusion is hard to derive from the data.",
+    "translation": "その結論はデータから導き出すのが難しい。"
+  },
+  {
+    "word": "out of thin air",
+    "category": "熟語",
+    "meaning": "どこからともなく",
+    "example": "He appeared out of thin air.",
+    "translation": "彼はどこからともなく現れた。"
+  },
+  {
+    "word": "pounce on",
+    "category": "熟語",
+    "meaning": "飛びつく、すぐ利用する",
+    "example": "The media pounced on the story.",
+    "translation": "メディアはその話題に飛びついた。"
+  },
+  {
+    "word": "beat the hell out of",
+    "category": "熟語",
+    "meaning": "徹底的にやる、ひどく打ち負かす",
+    "example": "Our team beat the hell out of the competition.",
+    "translation": "私たちのチームは競合を圧倒した。"
+  },
+  {
+    "word": "shoot down",
+    "category": "熟語",
+    "meaning": "却下する",
+    "example": "The committee shot down the proposal.",
+    "translation": "委員会はその提案を却下した。"
+  },
+  {
+    "word": "chances are",
+    "category": "熟語",
+    "meaning": "おそらく",
+    "example": "Chances are he'll be late.",
+    "translation": "おそらく彼は遅れるだろう。"
+  },
+  {
+    "word": "ditch",
+    "category": "単語",
+    "meaning": "捨てる、やめる",
+    "example": "We decided to ditch the old plan.",
+    "translation": "私たちは古い計画をやめることにした。"
+  },
+  {
+    "word": "comprehensive",
+    "category": "単語",
+    "meaning": "包括的な",
+    "example": "The report provides a comprehensive analysis.",
+    "translation": "その報告書は包括的な分析を提供している。"
+  },
+  {
+    "word": "justification",
+    "category": "単語",
+    "meaning": "正当化、根拠",
+    "example": "There is no justification for the delay.",
+    "translation": "その遅れを正当化する理由はない。"
+  },
+  {
+    "word": "come across",
+    "category": "熟語",
+    "meaning": "偶然見つける、～という印象を与える",
+    "example": "I came across an interesting article.",
+    "translation": "私は興味深い記事を偶然見つけた。"
+  },
+  {
+    "word": "ick",
+    "category": "単語",
+    "meaning": "うわっ、気持ち悪い",
+    "example": "Ick! That smells awful.",
+    "translation": "うわっ！ひどい臭いだ。"
+  },
+  {
+    "word": "inconvenience",
+    "category": "単語",
+    "meaning": "迷惑をかける",
+    "example": "I don't want to inconvenience anyone.",
+    "translation": "誰にも迷惑をかけたくない。"
+  },
+  {
+    "word": "there is no way",
+    "category": "熟語",
+    "meaning": "絶対にあり得ない",
+    "example": "There is no way I'll agree to that.",
+    "translation": "そんなことには絶対に同意しない。"
+  },
+  {
+    "word": "pit bull in the corner",
+    "category": "慣用表現",
+    "meaning": "追い詰められて反撃する人",
+    "example": "He's like a pit bull in the corner.",
+    "translation": "彼は追い詰められた闘犬のようだ。"
+  },
+  {
+    "word": "make a fuss",
+    "category": "熟語",
+    "meaning": "大騒ぎする",
+    "example": "Don't make a fuss about it.",
+    "translation": "そんなことで大騒ぎしないで。"
+  },
+  {
+    "word": "diversion",
+    "category": "単語",
+    "meaning": "気晴らし、迂回",
+    "example": "Reading is a welcome diversion.",
+    "translation": "読書は良い気晴らしになる。"
+  },
+  {
+    "word": "dazzle",
+    "category": "単語",
+    "meaning": "目をくらませる、魅了する",
+    "example": "The fireworks dazzled the audience.",
+    "translation": "花火は観客を魅了した。"
+  },
+  {
+    "word": "shine a torch",
+    "category": "熟語",
+    "meaning": "懐中電灯で照らす",
+    "example": "She shone a torch into the cave.",
+    "translation": "彼女は洞窟の中を懐中電灯で照らした。"
+  },
+  {
+    "word": "complexion",
+    "category": "単語",
+    "meaning": "顔色、肌の色",
+    "example": "She has a healthy complexion.",
+    "translation": "彼女は健康的な顔色をしている。"
+  },
+  {
+    "word": "try your hand at",
+    "category": "熟語",
+    "meaning": "～に挑戦する",
+    "example": "He tried his hand at cooking.",
+    "translation": "彼は料理に挑戦した。"
+  },
+  {
+    "word": "throb",
+    "category": "単語",
+    "meaning": "ズキズキ痛む",
+    "example": "My head was throbbing.",
+    "translation": "頭がズキズキ痛んだ。"
+  },
+  {
+    "word": "pulse",
+    "category": "単語",
+    "meaning": "脈拍",
+    "example": "The nurse checked my pulse.",
+    "translation": "看護師は私の脈拍を測った。"
+  },
+  {
+    "word": "vein",
+    "category": "単語",
+    "meaning": "静脈",
+    "example": "The doctor found a vein easily.",
+    "translation": "医師はすぐに静脈を見つけた。"
+  },
+  {
+    "word": "frantically",
+    "category": "単語",
+    "meaning": "必死に",
+    "example": "She searched frantically for her keys.",
+    "translation": "彼女は鍵を必死に探した。"
+  },
+  {
+    "word": "wicked",
+    "category": "単語",
+    "meaning": "邪悪な、（口語）すごく",
+    "example": "That was a wicked idea.",
+    "translation": "それはひどい考えだった。"
+  },
+  {
+    "word": "perk",
+    "category": "単語",
+    "meaning": "特典",
+    "example": "Free lunch is a nice perk.",
+    "translation": "無料の昼食はうれしい特典だ。"
+  },
+  {
+    "word": "perk up",
+    "category": "熟語",
+    "meaning": "元気づく",
+    "example": "She perked up after the good news.",
+    "translation": "彼女は良い知らせを聞いて元気になった。"
+  },
+  {
+    "word": "grudge",
+    "category": "単語",
+    "meaning": "恨み",
+    "example": "He still holds a grudge.",
+    "translation": "彼は今でも恨みを抱いている。"
+  },
+  {
+    "word": "bear a grudge",
+    "category": "熟語",
+    "meaning": "恨みを抱く",
+    "example": "Don't bear a grudge against him.",
+    "translation": "彼に恨みを抱かないで。"
+  }
