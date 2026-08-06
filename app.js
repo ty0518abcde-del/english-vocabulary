@@ -11,25 +11,43 @@ let weakWords =
   JSON.parse(localStorage.getItem("weakWords")) || [];
 
 
-const wordEl = document.getElementById("word");
-const meaningEl = document.getElementById("meaning");
-const exampleEl = document.getElementById("example");
-const translationEl = document.getElementById("translation");
-const answerEl = document.getElementById("answer");
-
-const flipButton = document.getElementById("flipButton");
-const nextButton = document.getElementById("nextButton");
+function $(id){
+  return document.getElementById(id);
+}
 
 
 async function loadWords(){
 
-  const response = await fetch("words.json");
+  try {
 
-  words = await response.json();
+    const response = await fetch("words.json");
 
-  showWord();
+    if(!response.ok){
+      throw new Error("words.jsonが読み込めません");
+    }
 
-  updateProgress();
+    words = await response.json();
+
+    current = 0;
+
+    showWord();
+
+    updateProgress();
+
+
+  } catch(e){
+
+    console.error(e);
+
+    const word =
+      $("word");
+
+    if(word){
+      word.textContent =
+      "データ読み込みエラー";
+    }
+
+  }
 
 }
 
@@ -37,27 +55,34 @@ async function loadWords(){
 
 function showWord(){
 
-  if(words.length === 0) return;
+  if(words.length === 0){
+    return;
+  }
 
 
   const w = words[current];
 
 
-  wordEl.textContent = w.word;
+  if($("word"))
+    $("word").textContent = w.word;
 
-  meaningEl.textContent = w.meaning;
 
-  exampleEl.textContent =
+  if($("meaning"))
+    $("meaning").textContent = w.meaning;
+
+
+  if($("example"))
+    $("example").textContent =
     "Example: " + w.example;
 
-  translationEl.textContent =
+
+  if($("translation"))
+    $("translation").textContent =
     "和訳: " + w.translation;
 
 
-  answerEl.style.display = "none";
-
-  flipButton.textContent =
-    "タップして意味を見る";
+  if($("answer"))
+    $("answer").style.display="none";
 
 
   updateLearnedButton();
@@ -66,60 +91,89 @@ function showWord(){
 
 
 
-flipButton.addEventListener(
-"click",
-()=>{
 
- if(answerEl.style.display==="none"){
 
-   answerEl.style.display="block";
+if($("flipButton")){
 
-   flipButton.textContent="隠す";
+$("flipButton").onclick = function(){
 
- }else{
+  if($("answer").style.display==="none"){
 
-   answerEl.style.display="none";
+    $("answer").style.display="block";
 
-   flipButton.textContent=
-   "タップして意味を見る";
+    this.textContent="隠す";
 
- }
+  }else{
 
-});
-function speak(text){
+    $("answer").style.display="none";
 
-  const speech =
-    new SpeechSynthesisUtterance(text);
+    this.textContent=
+    "タップして意味を見る";
 
-  speech.lang = "en-US";
-  speech.rate = 0.8;
+  }
 
-  window.speechSynthesis.speak(speech);
+};
 
 }
 
 
 
-document
-.getElementById("speakButton")
-.addEventListener(
-"click",
-()=>{
 
-  const sentence =
-    words[current].example;
+if($("nextButton")){
 
-  speak(sentence);
+$("nextButton").onclick=function(){
 
-});
+ current++;
+
+ if(current >= words.length){
+   current=0;
+ }
+
+ showWord();
+
+};
+
+}
 
 
 
-document
-.getElementById("learnedButton")
-.addEventListener(
-"click",
-()=>{
+
+
+function speak(text){
+
+ const speech =
+ new SpeechSynthesisUtterance(text);
+
+ speech.lang="en-US";
+ speech.rate=0.8;
+
+ speechSynthesis.speak(speech);
+
+}
+
+
+
+if($("speakButton")){
+
+$("speakButton").onclick=function(){
+
+ if(words[current]){
+
+   speak(words[current].example);
+
+ }
+
+};
+
+}
+
+
+
+
+
+if($("learnedButton")){
+
+$("learnedButton").onclick=function(){
 
  const word =
  words[current].word;
@@ -129,38 +183,44 @@ document
 
    learnedWords.push(word);
 
-   localStorage.setItem(
-     "learnedWords",
-     JSON.stringify(learnedWords)
-   );
-
  }
+
+
+ localStorage.setItem(
+ "learnedWords",
+ JSON.stringify(learnedWords)
+ );
 
 
  updateProgress();
 
  updateLearnedButton();
 
+};
 
-});
+}
+
+
 
 
 
 function updateLearnedButton(){
 
  const button =
- document.getElementById("learnedButton");
+ $("learnedButton");
+
+
+ if(!button || !words[current])
+ return;
 
 
  if(learnedWords.includes(words[current].word)){
 
-   button.textContent =
-   "✅ 習得済み";
+   button.textContent="✅ 習得済み";
 
  }else{
 
-   button.textContent =
-   "✅ 覚えた";
+   button.textContent="✅ 覚えた";
 
  }
 
@@ -169,11 +229,10 @@ function updateLearnedButton(){
 
 
 
-document
-.getElementById("favoriteButton")
-.addEventListener(
-"click",
-()=>{
+
+if($("favoriteButton")){
+
+$("favoriteButton").onclick=function(){
 
  const word =
  words[current].word;
@@ -183,28 +242,25 @@ document
 
    favorites.push(word);
 
-   localStorage.setItem(
-     "favorites",
-     JSON.stringify(favorites)
-   );
-
  }
 
-});
+
+ localStorage.setItem(
+ "favorites",
+ JSON.stringify(favorites)
+ );
+
+};
+
+}
 
 
 
 
 
-document
-.getElementById("weakButton")
-.addEventListener(
-"click",
-addWeakWord);
+if($("weakButton")){
 
-
-
-function addWeakWord(){
+$("weakButton").onclick=function(){
 
  const word =
  words[current].word;
@@ -214,12 +270,77 @@ function addWeakWord(){
 
    weakWords.push(word);
 
-   localStorage.setItem(
-    "weakWords",
-    JSON.stringify(weakWords)
-   );
-
  }
+
+
+ localStorage.setItem(
+ "weakWords",
+ JSON.stringify(weakWords)
+ );
+
+};
+
+}
+
+
+
+
+
+if($("showUnlearned")){
+
+$("showUnlearned").onclick=function(){
+
+ words =
+ words.filter(
+ w=>!learnedWords.includes(w.word)
+ );
+
+
+ current=0;
+
+ showWord();
+
+};
+
+}
+
+
+
+
+
+if($("showAll")){
+
+$("showAll").onclick=function(){
+
+ loadWords();
+
+};
+
+}
+
+
+
+
+
+function updateProgress(){
+
+ if(!$("progressBar") ||
+    !$("progressText"))
+    return;
+
+
+ const percent =
+ words.length ?
+ learnedWords.length / words.length * 100
+ :0;
+
+
+ $("progressBar").style.width =
+ percent+"%";
+
+
+ $("progressText").textContent =
+ `${learnedWords.length}/${words.length}語習得 (${Math.round(percent)}%)`;
 
 }
 
@@ -229,126 +350,43 @@ function addWeakWord(){
 
 function startWeakListening(){
 
- const weakList =
+ const list =
  words.filter(
  w=>weakWords.includes(w.word)
  );
 
 
- if(weakList.length===0){
+ if(list.length===0){
 
-   alert("苦手単語がありません");
+  alert("苦手単語がありません");
 
-   return;
+  return;
 
  }
 
 
- let index = 0;
+ let i=0;
 
 
- function playNext(){
+ function play(){
 
-   if(index >= weakList.length){
-
+   if(i>=list.length)
      return;
 
-   }
 
+   speak(list[i].example);
 
-   speak(
-    weakList[index].example
-   );
+   i++;
 
-
-   index++;
-
-
-   setTimeout(
-    playNext,
-    5000
-   );
+   setTimeout(play,5000);
 
  }
 
 
- playNext();
+ play();
 
 }
-
-
-
-
-function updateProgress(){
-
- const percent =
- words.length === 0
- ? 0
- : learnedWords.length /
-   words.length * 100;
-
-
-
- document
- .getElementById("progressBar")
- .style.width =
- percent + "%";
-
-
-
- document
- .getElementById("progressText")
- .textContent =
- `${learnedWords.length} / ${words.length}語習得 (${Math.round(percent)}%)`;
-
-}
-
-
-
-
-
-document
-.getElementById("showUnlearned")
-.addEventListener(
-"click",
-()=>{
-
- words =
- words.filter(
- w=>!learnedWords.includes(w.word)
- );
-
-
- current = 0;
-
- showWord();
-
-});
-
-
-
-
-
-document
-.getElementById("showAll")
-.addEventListener(
-"click",
-loadWords);
-
-
 
 
 
 loadWords();
-
-
-nextButton.addEventListener(
-"click",
-()=>{
-
- current =
- (current + 1) % words.length;
-
- showWord();
-
-});
